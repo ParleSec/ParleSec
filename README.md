@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello there, I'm Mason  
 
-<!--
-**ParleSec/ParleSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Cybersecurity** |  🤝 **Digital Trust** | 🚗 **Automation**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤓 **My Featured Projects**  
+🏦 **[SecureVault](https://github.com/ParleSec/SecureVault)** – Custom file encryption solution with intuitive GUI interface and integrated API server 
+####
+⚛️ **[QuantumkFieldKit](https://github.com/ParleSec/QuantumFieldKit)** – Visualising quantum concepts in a binary environment
+####
+🪙 **[DIDentity]()**(Private) – Decentralised Identity System built using a microservices architecture
+
+---
+
+
+### 🔧 **Tech Stack**  
+###
+💾 **Programming & Web Development**  
+- **Python**, **Rust**, **C++** 
+- **Flask** (Backend APIs & Web Apps)  
+- **JavaScript, Typescript** (Front-end)  
+- **REST APIs** (API design & implementation)  
+####
+ 🚢 **Infrastructure & Automation**  
+- **Docker** (Containerisation)  
+- **PowerShell**, **Bash** (Scripting & Automation)  
+ 
