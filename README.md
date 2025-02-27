@@ -25,4 +25,8 @@
  🚢 **Infrastructure & Automation**  
 - **Docker** (Containerisation)  
 - **PowerShell**, **Bash** (Scripting & Automation)  
- 
+ ####
+💭**Emerging Interests**
+- **Identity Security**
+- **Quantum Cryptography**
+- **Process Automation**
