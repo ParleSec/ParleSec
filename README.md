@@ -7,7 +7,7 @@
 ### 🤓 **My Featured Projects**  
 🏦 **[SecureVault](https://github.com/ParleSec/SecureVault)** – Custom file encryption solution with intuitive GUI interface and integrated API server 
 ####
-⚛️ **[QuantumkFieldKit](https://github.com/ParleSec/QuantumFieldKit)** – Visualising quantum concepts in a binary environment
+⚛️ **[QuantumFieldKit](https://quantumfieldkit.com/)** – Visualising quantum concepts in a binary environment
 ####
 🪙 **[DIDentity](https://github.com/ParleSec/QuantumFieldKit)** – Decentralised Identity System built using a microservices architecture
 
