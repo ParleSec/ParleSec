@@ -9,7 +9,7 @@
 ####
 ⚛️ **[QuantumFieldKit](https://quantumfieldkit.com/)** – Visualising quantum concepts in a binary environment
 ####
-🪙 **[DIDentity](https://github.com/ParleSec/QuantumFieldKit)** – Decentralised Identity System built using a microservices architecture
+🪙 **[DIDentity](https://github.com/ParleSec/DIDentity)** – Decentralised Identity System built using a microservices architecture
 
 ---
 
