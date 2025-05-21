@@ -45,5 +45,5 @@
 ### 🌐 **Let’s Connect**
 
 - 🔗 Website: [masonparle.com](https://masonparle.com)  
-- 💼 LinkedIn: [linkedin](https://linkedin.com/in/masonparle)  
+- 💼 LinkedIn: [linkedin](https://linkedin.com/in/mason-parle)  
 - 📬 Contact: [masonparle.com](https://masonparle.com)
